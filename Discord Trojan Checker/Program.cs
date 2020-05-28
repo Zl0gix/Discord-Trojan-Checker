@@ -6,7 +6,7 @@ namespace Discord_Trojan_Checker
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
 
             Console.WriteLine("This program is made to verify that your Discord or Discord PTB installation hasn't been corrupted by the AnarchyGrabber3 version found the 25/05/2020\n" +
