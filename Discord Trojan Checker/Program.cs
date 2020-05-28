@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
 
 namespace Discord_Trojan_Checker
@@ -13,7 +10,7 @@ namespace Discord_Trojan_Checker
         {
 
             Console.WriteLine("This program is made to verify that your Discord or Discord PTB installation hasn't been corrupted by the AnarchyGrabber version found the 25/05/2020\n" +
-                "You can access the source code of this program on : githublalala"); //TODO : git link
+                "You can access the source code of this program on : https://github.com/Zl0gix/Discord-Trojan-Checker"); //TODO : git link
 
             Console.WriteLine("\n");
             VerificationProcess("Discord");
