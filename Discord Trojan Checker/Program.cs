@@ -9,8 +9,8 @@ namespace Discord_Trojan_Checker
         static void Main(string[] args)
         {
 
-            Console.WriteLine("This program is made to verify that your Discord or Discord PTB installation hasn't been corrupted by the AnarchyGrabber version found the 25/05/2020\n" +
-                "You can access the source code of this program on : https://github.com/Zl0gix/Discord-Trojan-Checker"); //TODO : git link
+            Console.WriteLine("This program is made to verify that your Discord or Discord PTB installation hasn't been corrupted by the AnarchyGrabber3 version found the 25/05/2020\n" +
+                "You can access the source code of this program on : https://github.com/Zl0gix/Discord-Trojan-Checker");
 
             Console.WriteLine("\n");
             VerificationProcess("Discord");
@@ -61,7 +61,7 @@ namespace Discord_Trojan_Checker
                         }
                         else
                         {
-                            Console.WriteLine($"Your {appName} installation seems to be clean. Please note that the verification made by the program is made to detect AnarchyGrabber version found the 25/05/2020");
+                            Console.WriteLine($"Your {appName} installation seems to be clean. Please note that the verification made by the program is made to detect AnarchyGrabber3 version found the 25/05/2020");
                         }
                     }
                     else
