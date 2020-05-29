@@ -9,3 +9,5 @@ As I write this Readme :
 - Discord PTB's current version is 0.0.52
 
 **To download** the executable file (Windows only), go to the ["Release" page of the project](https://github.com/Zl0gix/Discord-Trojan-Checker/releases "link to the Releases")
+
+Windows defender will probably prevent the program from executing, I will submit it to Microsoft so they can review that it isn't a malicious program but it will take some time...
